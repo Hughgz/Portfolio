@@ -26,8 +26,8 @@ function Projects() {
               isBlog={false}
               title="MH Cinema"
               description="Developed and maintained the MH Cinema website, an online movie ticket booking platform using React and Java Spring Boot. Created RESTful APIs, implemented user authentication with Spring Security, and managed data with Hibernate and MySQL. Enhanced the UI with Chakra UI and managed state with Redux. Collaborated using GitHub, IntelliJ IDEA, and VS Code"
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              ghLink=""
+              demoLink="https://lthshop-frontend.vercel.app"
             />
           </Col>
 
@@ -36,7 +36,7 @@ function Projects() {
               isBlog={false}
               title="LTH Store"
               description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
+              ghLink=""
               demoLink="https://lthshop-frontend.vercel.app/"
             />
           </Col>
@@ -46,8 +46,8 @@ function Projects() {
               isBlog={false}
               title="HILO Cinema"
               description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              ghLink=""
+              demoLink="https://lthshop-frontend.vercel.app/"
             />
           </Col>
 
@@ -56,8 +56,8 @@ function Projects() {
               isBlog={false}
               title="Book Store"
               description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              ghLink=""
+              demoLink="https://lthshop-frontend.vercel.app/"
             />
           </Col>
 
@@ -66,8 +66,8 @@ function Projects() {
               isBlog={false}
               title="Human Resource"
               description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              ghLink=""
+              demoLink="https://lthshop-frontend.vercel.app/"
             />
           </Col>
          
