@@ -19,22 +19,23 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I am passionate about <span className="purple">Java Backend Development</span> and have extensive experience in this field. 
+              Hello, my name is <span className="purple">MINH HIEU</span>, and I am currently seeking a position as a 
+              <span className="purple"> Java Backend Intern</span>. 
               <br />
               <br />
-              <b className="purple">Backend Development Skills:</b>
-              <i>
-                <b className="purple">
-                  {" "}Java, Spring MVC, Spring Security, RESTful API, MySQL, MSSQL, MongoDB, Docker, Azure.
-                </b>
-              </i>
+              I have a strong foundation in <span className="purple">Java</span> and its frameworks, 
+              including <b className="purple">Spring MVC</b> and <b className="purple">Spring Security</b>. I have worked with databases like 
+              <span className="purple"> MySQL, MSSQL</span>, and <span className="purple">MongoDB</span>, 
+              and I am experienced in building <span className="purple">RESTful APIs</span>.
               <br />
               <br />
-              My field of interest lies in building scalable backend systems and ensuring high-quality code using 
-              <span className="purple"> testing tools</span> like <b>Postman</b> and <b>Selenium</b>.
+              I also have hands-on experience with <b className="purple">Docker</b>, 
+              <span className="purple"> Azure</span>, and tools like <b className="purple">Postman</b> and <b className="purple">Selenium </b> 
+              for testing and ensuring code quality. I am familiar with working in Agile environments, using <b className="purple">Scrum </b> 
+               methodologies and tools such as <b>JIRA</b>.
               <br />
               <br />
-              I also have experience working in an Agile environment using <b className="purple">Scrum</b> methodologies and tools like <b>JIRA</b>.
+              My ultimate goal is to contribute to scalable and high-performance backend systems while continuously learning and growing in this dynamic field.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -70,7 +71,6 @@ function Home2() {
                   <FaLinkedinIn />
                 </a>
               </li>
-          
             </ul>
           </Col>
         </Row>
@@ -78,4 +78,5 @@ function Home2() {
     </Container>
   );
 }
+
 export default Home2;

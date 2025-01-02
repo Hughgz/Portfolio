@@ -15,13 +15,14 @@ import {
   SiFirebase,
   SiNextdotjs,
   SiSolidity,
-  SiPostgresql,
   SiSpring,
   SiDocker,
   SiJira,
   SiMysql,
   SiMicrosoftsqlserver,
   SiAzuredevops,
+  SiCsharp,
+  SiDotnet,
 } from "react-icons/si";
 
 function Techstack() {
@@ -38,9 +39,6 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiMicrosoftsqlserver />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiPostgresql />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiMongodb />
@@ -65,6 +63,18 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiNodejs />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <CgCPlusPlus />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiPython />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiCsharp />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiDotnet />
       </Col>
     </Row>
   );

@@ -35,6 +35,7 @@ function App() {
       <div className="App" id={load ? "no-scroll" : "scroll"}>
         <Navbar />
         <ScrollToTop />
+        
         <CanvasCursor /> {/* Thêm CanvasCursor ở đây */}
         <Routes>
           <Route path="/" element={<Home />} />
