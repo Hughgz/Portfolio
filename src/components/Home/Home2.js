@@ -20,7 +20,7 @@ function Home2() {
             </h1>
             <p className="home-about-body">
               Hello, my name is <span className="purple">MINH HIEU</span>, and I am currently seeking a position as a 
-              <span className="purple"> Java Backend Intern</span>. 
+              <span className="purple"> Java Backend Developer</span>. 
               <br />
               <br />
               I have a strong foundation in <span className="purple">Java</span> and its frameworks, 
