@@ -8,38 +8,30 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Vo Minh Hieu </span>
+            Hi Everyone, I am <span className="purple">Vo Minh Hieu</span>
             <br />
-            I am currently studying software engineering, focusing on Java
-            backend development.
-            <br />
-            I am working on improving my problem-solving and data structure
-            skills, and I am eager to learn new technologies and grow as a
-            developer.
+            I am a proactive learner with a passion for technology and a proven track record of delivering impactful projects. My experience in developing full-stack applications, managing databases like MySQL and Azure, and deploying solutions on platforms like Azure and Vercel showcases my technical expertise.
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            Beyond technical skills, I have demonstrated my ability to work well in teams and adapt to challenges through my participation in hackathons and collaborative projects. My drive to continually improve and my enthusiasm for learning make me confident in my ability to contribute to innovative teams and make a meaningful impact.
+            <br />
+            <br />
+            I believe my technical abilities, combined with my passion and eagerness to learn, make me a strong fit for any software engineering team.
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Football, Badminton
+              <ImPointRight /> Passionate about coding and technology
             </li>
             <li className="about-activity">
-              <ImPointRight /> Marvel
+              <ImPointRight /> Skilled in full-stack development and database management
             </li>
             <li className="about-activity">
-              <ImPointRight /> Anime
+              <ImPointRight /> Eager to learn and adapt to new technologies
             </li>
             <li className="about-activity">
-              <ImPointRight /> Listen to music
+              <ImPointRight /> Strong collaborator and team player
             </li>
           </ul>
-
-          {/* <p style={{ color: "rgb(155 126 172)" }}>
-            " If you're not smarter than others, you have to put in more time
-            than they do!"{" "}
-          </p>
-          <footer className="blockquote-footer">Minh Hieu</footer> */}
         </blockquote>
       </Card.Body>
     </Card>

@@ -19,23 +19,16 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              Hello, my name is <span className="purple">MINH HIEU</span>, and I am currently seeking a position as a 
-              <span className="purple"> Java Backend Developer</span>. 
+              Hello, my name is <span className="purple">MINH HIEU</span>, and I am a passionate and motivated Software Engineer. I am currently a final-year Information Technology student at Nguyen Tat Thanh University, seeking opportunities to further my career in software development.
               <br />
               <br />
-              I have a strong foundation in <span className="purple">Java</span> and its frameworks, 
-              including <b className="purple">Spring MVC</b> and <b className="purple">Spring Security</b>. I have worked with databases like 
-              <span className="purple"> MySQL, MSSQL</span>, and <span className="purple">MongoDB</span>, 
-              and I am experienced in building <span className="purple">RESTful APIs</span>.
+              I have hands-on experience with a variety of technologies, including <span className="purple">Java</span>, <span className="purple">Spring Boot</span>, <span className="purple">.NET</span>, <span className="purple">React</span>, and <span className="purple">Next.js</span>, having developed several real-world applications in the e-commerce and online booking domains. I am particularly proud of projects like <b className="purple">LTH Store</b> and <b className="purple">MH Cinema</b>, where I built both frontend and backend systems, integrated secure payment methods, and used modern UI/UX frameworks to enhance user experience.
               <br />
               <br />
-              I also have hands-on experience with <b className="purple">Docker</b>, 
-              <span className="purple"> Azure</span>, and tools like <b className="purple">Postman</b> and <b className="purple">Selenium </b> 
-              for testing and ensuring code quality. I am familiar with working in Agile environments, using <b className="purple">Scrum </b> 
-               methodologies and tools such as <b>JIRA</b>.
+              My experience also includes working with databases like <span className="purple">MySQL</span>, <span className="purple">Azure SQL</span>, and using tools like <span className="purple">Postman</span> and <span className="purple">Selenium</span> for testing. Additionally, I am comfortable with CI/CD processes using <span className="purple">GitHub Actions</span>, and I have a strong understanding of Docker and Azure DevOps for modern cloud-based development.
               <br />
               <br />
-              My ultimate goal is to contribute to scalable and high-performance backend systems while continuously learning and growing in this dynamic field.
+              I am excited to contribute to innovative teams and continue to learn and grow as a software developer. My goal is to build scalable, high-performance applications while solving complex challenges in the tech world.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -63,7 +56,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/vo-minh-hieu-855147300/"
+                  href="https://www.linkedin.com/in/hieuminh03"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
